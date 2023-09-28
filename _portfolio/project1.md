@@ -1,7 +1,7 @@
 ---
 title: Wiła
 subtitle: Dziewianki
-image: 
+image: assets/img/portfolio/wila.jpg
 alt: 
 
 caption:
@@ -11,4 +11,4 @@ caption:
 ---
 
 
-<iframe src="https://www.youtube.com/embed/LP8V3gETSoQ" frameborder="0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture; fullscreen" ></iframe>
+<div style="padding-bottom: 56.25%; max-width: 100%; position: relative;"><iframe src="https://www.youtube.com/embed/LP8V3gETSoQ" width="800" height="450" style="position: absolute; top: 0px; left: 0px; width: 100%; height: 100%;" frameborder="0"></iframe></div>

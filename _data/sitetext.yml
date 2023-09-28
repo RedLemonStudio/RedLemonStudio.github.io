@@ -22,6 +22,19 @@ en: &DEFAULT_EN
     section: portfolio
     closebutton: "Zamknij"
 
+  services:
+    title: "Usługi"
+    text: "W czym możemy ci pomóc"
+    section: services
+    list:
+      - title: "Klipy muzyczne"
+        desc: "Nagramy teledysk do twojej piosenki"
+        icon: fa fa-music #find more at https://fontawesome.com/icons
+      - title: "Montaż"
+        desc: "Jeśli posiadasz już nagrania zmontujemy za ciebie co tylko będzie ci potrzebne"
+        icon: fa fa-film
+
+
   timeline:
     title: "Timeline"
     text: "Lorem ipsum timeline"
@@ -58,7 +71,9 @@ en: &DEFAULT_EN
     text: "Kim jesteśmy?"
     body: "Jesteśmy kreatywnym studiem filmowym z siedzibą na Śląsku, które specjalizuje się w tworzeniu innowacyjnych klipów muzycznych. Naszą pasją jest łączenie filmowej sztuki z magią muzyki, co przekłada się na niezapomniane wizualne narracje podkreślające unikalność każdej kompozycji.
 
+
 W naszym studio cenimy sobie luźną i twórczą atmosferę, która sprzyja ekspresji artystycznej. Dla naszych klientów komfort i satysfakcja są kluczowe, dlatego zawsze staramy się stworzyć przyjazne i współpracujące środowisko.
+
 
 Zapraszamy do współpracy artystów, którzy pragną dodać nowego wymiaru swoim klipom muzycznym. Razem tworzymy dzieła sztuki, które nie tylko zachwycają, ale także inspirują."
     section: about
@@ -66,7 +81,7 @@ Zapraszamy do współpracy artystów, którzy pragną dodać nowego wymiaru swoi
 
   contact:
     title: "Skontaktuj się"
-    text: "Tel: +48 730 771 080"
+    text: "Tel: +48 730 771 080 | Email: redlemonstudio.contact@gmail.com"
     section: contact
     name: "Imie*"
     name-validation: "Please enter your name."

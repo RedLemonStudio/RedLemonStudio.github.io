@@ -13,6 +13,8 @@ en: &DEFAULT_EN
   nav:
     - title: "Portfolio"
       section: portfolio
+    - title: "Usługi"
+      section: services
     - title: "O Nas"
       section: about
     - title: "Kontakt"
