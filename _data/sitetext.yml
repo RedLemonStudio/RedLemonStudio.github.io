@@ -32,7 +32,7 @@ en: &DEFAULT_EN
         icon: fa fa-music #find more at https://fontawesome.com/icons
       - title: "Realizacja Spotów Reklamowych"
         desc: "Kompleksowe usługi nagrania i montażu spotów reklamowych dla twojej organizacji"
-        icon: fa fa-rectangle-ad
+        icon: fa fa-video
       - title: "Montaż"
         desc: "Jeśli posiadasz już nagrania zmontujemy za ciebie co tylko będzie ci potrzebne"
         icon: fa fa-film
