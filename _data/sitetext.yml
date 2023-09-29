@@ -27,12 +27,18 @@ en: &DEFAULT_EN
     text: "W czym możemy ci pomóc"
     section: services
     list:
-      - title: "Klipy muzyczne"
-        desc: "Nagramy teledysk do twojej piosenki"
+      - title: "Realizacja Teledysków"
+        desc: "Kompleksowe usługi obejmujące między innymi nagranie oraz montaż teledysków"
         icon: fa fa-music #find more at https://fontawesome.com/icons
+      - title: "Realizacja Spotów Reklamowych"
+        desc: "Kompleksowe usługi nagrania i montażu spotów reklamowych dla twojej organizacji"
+        icon: fa fa-rectangle-ad
       - title: "Montaż"
         desc: "Jeśli posiadasz już nagrania zmontujemy za ciebie co tylko będzie ci potrzebne"
         icon: fa fa-film
+      - title: "Prowadzenie Social Mediów"
+        desc: "Usługi obejmujące prowadzenie social mediów"
+        icon: fa fa-user
 
 
   timeline:
@@ -87,7 +93,7 @@ Zapraszamy do współpracy artystów, którzy pragną dodać nowego wymiaru swoi
     name-validation: "Please enter your name."
     email: "Email*"
     email-validation: "Please enter your email address."
-    phone: "Numer telefonu"
+    phone: "Numer telefonu*"
     phone-validation: "Please enter your phone number."
     message: "Wiadomość*"
     message-validation: "Please enter a message."
@@ -130,6 +136,9 @@ es: &DEFAULT_ES
       - title: "Diseño Responsivo"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
         icon: fas fa-laptop
+      - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
+        desc: "Su descripción aquí, soporte completo de **Markdown**"
+        icon: fab fa-markdown
       - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
         desc: "Su descripción aquí, soporte completo de **Markdown**"
         icon: fab fa-markdown
