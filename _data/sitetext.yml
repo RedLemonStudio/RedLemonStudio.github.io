@@ -11,7 +11,7 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title:  <img src="assets/img/logo_withouttext.png" alt="logo">
+    title:  <img src="assets/img/logo_withouttext.png" alt="logo" style="max-width:90vw;">
     text:   Red Lemon Studio
     button: SKONTAKTUJ SIĘ!
     buttonlink: "#contact"
